@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1512360214598.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C7A5A3DE",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1512360214598,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8118F9C2",
+        "caption" : "nyc_sales",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=nyc_sales&cache_key=8118F9C2",
+        "displayedObservations" : 26740,
+        "environment" : "",
+        "object" : "nyc_sales",
+        "preview" : 0,
+        "totalObservations" : 26740,
+        "variables" : 17
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
