@@ -3,3 +3,5 @@ reports/*.html
 reports/*.pdf
 data/*.zip
 out/models/*
+*.RData
+GLM_final.Rproj
